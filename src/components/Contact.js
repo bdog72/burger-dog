@@ -24,9 +24,9 @@ class Contact extends Component {
         </p>
       </form>
 
-      <p>
+      <p className='bdog1'>
         You can also email us at
-        <a href='mailto:hello@majestic.that'>hello@majestic.that</a>.
+        <a href='mailto:hello@majestic.th'>Brian@BurgerDog.com</a>.
       </p>
     </div>
   }

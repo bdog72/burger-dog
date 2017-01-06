@@ -5,7 +5,10 @@ class Home extends Component {
   render () {
     return <div className='home'>
       <h2>A little bit about the restaurant</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>WE LOVE BURGERS AND HOT DOGS.WE LOVE BURGERS AND HOT DOGS.WE LOVE BURGERS AND HOT DOGS.WE LOVE BURGERS AND HOT DOGS.WE LOVE BURGERS AND HOT DOGS.WE LOVE BURGERS AND HOT DOGS.</p>
+      <div className='fries'>
+        <img src='https://i.ytimg.com/vi/ETTyVQrUZt8/maxresdefault.jpg' height='200' width='500' />
+      </div>
     </div>
   }
 }

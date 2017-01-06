@@ -8,7 +8,7 @@ class Locations extends Component {
     return <div>
       <h2>Our locations</h2>
       {data.locations.map((location, i) => {
-        <h3><Link to={'/locations/${locations.slug}'}>{location.name}</Link></h3>
+        return <h3><Link to={`/locations/${location.slug}`}>{location.name}</Link></h3>
       })}
     </div>
   }

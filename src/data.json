@@ -12,16 +12,16 @@
       "mapPlaceId": "ChIJ2ckQoZzhwogR_sFtWCqwpWs"
     },
     {
-      "slug": "bradenton",
-      "name": "Bradenton",
-      "address": "Across the Street from Ellenton Outlets",
+      "slug": "N-ST-PETE",
+      "name": "North ST Petersburg",
+      "address": "1293 80th Ave N",
       "hours": [
         { "days": "Mon", "hours": "CLOSED" },
         { "days": "Tue-Fri", "hours": "11AM - 7PM" },
         { "days": "Sat", "hours": "11AM - 12AM" },
         { "days": "Sun", "hours": "9AM - 2PM" }
       ],
-      "mapPlaceId": "ChIJDWEZ1zX8VDARDHDTZoyjHXI"
+      "mapPlaceId": "ChIJb87YhB_kwogRRISk58gANP8"
     }
   ],
   "menu": [
@@ -30,18 +30,18 @@
       "slug": "apps",
       "items": [
         {
-          "name": "Santa Fe Spring Rolls",
-          "description": "Beans and corn and stuff with some cool ranch sour creme dippin' sauwce",
+          "name": "French Fries",
+          "description": "Of course we have Fries here",
           "price": 450
         },
         {
           "name": "Potato Skins",
-          "description": "More of that ranch sour creme sauwce on potatoes with bacon and cheese",
+          "description": "Yummy for the tummy",
           "price": 720
         },
         {
           "name": "Monster Nachos",
-          "description": "Just like the ones at Cobb 10 Luxory Theater... you know the ones... yeah.",
+          "description": "Nice!",
           "price": 1195
         }
       ]
@@ -51,8 +51,8 @@
       "slug": "meals",
       "items": [
         {
-          "name": "Buffalo Wings",
-          "description": "Yeah, these are an appetizer. Stop, It's a meal. Price per wing.",
+          "name": "Hamburger",
+          "description": "Get cheese on it",
           "price": 50
         }
       ]
@@ -68,18 +68,18 @@
         },
         {
           "name": "Tiramisu",
-          "description": "Lady fingers, coffee, and creamy marscapone. Yum",
+          "description": "Yum",
           "price": 599
         },
         {
           "name": "Baklava",
-          "description": "Flakey layers of pasty soaked in honey and well, basically god nectar",
+          "description": "Flakey",
           "price": 599
         }
       ]
     },
     {
-      "name": "Dan's Specials",
+      "name": "Brians Special",
       "slug": "frugal",
       "items": [
         {

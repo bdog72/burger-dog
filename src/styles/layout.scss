@@ -2,7 +2,11 @@ body,
 #root,
 .layout {
   min-height: 100vh;
-  background: #547DCC;
+  background: #415a60;
+}
+body {
+  border: 5px solid white;
+  margin: 20px;
 }
 
 .layout {
@@ -24,11 +28,11 @@ nav ul {
   padding-left: 0;
   display: flex;
   list-style: none;
-  background: #58677f;
+  background: #72a1ac;
 
- li {
+  li {
     margin: 1em;
-    color: white;
+    font-size: 1.5em;
   }
 }
 h1 {
@@ -37,12 +41,22 @@ h1 {
   margin: 0 20px;
 }
 .home {
-  background: #b6cfff;
-  padding: 10px;
+  background: #58848c;
+  padding: 20px;
+}
+.home h2 {
+  text-align: center;
+  font-size: 30px;
+  // line-height: 10px;
+  // margin-top: 10px;
 }
 .images1 {
   display: flex;
   flex-direction: row;
   margin: 20px;
   padding: 30px;
+}
+.fries {
+  display: flex;
+  justify-content: center;
 }

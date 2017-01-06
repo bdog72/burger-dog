@@ -34,7 +34,7 @@ class Layout extends Component {
         {this.props.children}
       </main>
       <footer>
-        <p>&copy: 2017 The Burger Dog</p>
+        <p>&copy; 2017 The Burger Dog</p>
       </footer>
     </div>
   }

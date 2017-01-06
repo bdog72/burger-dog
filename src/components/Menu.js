@@ -21,7 +21,6 @@ class Menu extends Component {
           {categories}
         </ul>
       </section>
-
       {this.props.children}
     </div>
   }
