@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import data from '../data.json'
 
-const MAPS_API_KEY = ''
+const MAPS_API_KEY =
 
 class Location extends Component {
 

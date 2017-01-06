@@ -9,7 +9,11 @@ class Layout extends Component {
 
   render () {
     return <div className='layout'>
-      <h1>Burger Dog</h1>
+      <div className='images1'>
+        <img src='http://www.foodportfolio.com/b/wp-content/uploads/2010/07/10910-GE-5-27-10-070313.jpg' height='100' width='150' />
+        <h1>Burger Dog</h1>
+        <img src='http://www.foodportfolio.com/b/wp-content/uploads/2010/07/10910-GE-5-27-10-070313.jpg' height='100' width='150' />
+      </div>
       <nav>
         <ul>
           <li>

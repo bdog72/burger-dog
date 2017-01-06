@@ -2,6 +2,7 @@ body,
 #root,
 .layout {
   min-height: 100vh;
+  background: #547DCC;
 }
 
 .layout {
@@ -23,8 +24,25 @@ nav ul {
   padding-left: 0;
   display: flex;
   list-style: none;
+  background: #58677f;
 
-  li {
+ li {
     margin: 1em;
+    color: white;
   }
+}
+h1 {
+  color: white;
+  font-size: 50px;
+  margin: 0 20px;
+}
+.home {
+  background: #b6cfff;
+  padding: 10px;
+}
+.images1 {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  padding: 30px;
 }
