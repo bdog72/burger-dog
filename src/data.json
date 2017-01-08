@@ -2,7 +2,7 @@
   "locations": [
     {
       "slug": "st-pete",
-      "name": "Downtown St Petersburg",
+      "name": "Downtown St Petersburg",  
       "address": "260 1st Ave S, Suite 300, St Petersburg, FL, 33701",
       "hours": [
         { "days": "Mon-Fri", "hours": "11AM - 9PM" },

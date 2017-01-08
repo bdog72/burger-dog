@@ -9,11 +9,11 @@ class Contact extends Component {
       <form>
         <p>
           <label htmlFor='fullName'>Name</label>
-          <input name='fullName' type='text' />
+          <input name='fullName' type='text' required />
         </p>
         <p>
           <label htmlFor='email'>Email</label>
-          <input name='email' type='email' />
+          <input name='email' type='email' required />
         </p>
         <p>
           <label htmlFor='message'>Message</label>
